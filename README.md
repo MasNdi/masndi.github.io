@@ -58,7 +58,7 @@ VITE_SUPABASE_URL=your-supabase-project-url
 VITE_SUPABASE_ANON_KEY=your-supabase-anon-key
 ```
 
-> Find these in your Supabase project under **Settings → API**.  
+> Find these in your Supabase project under **Settings →.  
 > ⚠️ Never commit `.env` to version control — make sure it's in `.gitignore`.
 
 ### 3. Supabase Client (`src/supabase.js`)
